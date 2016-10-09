@@ -1,0 +1,77 @@
+body{
+    background: url("https://i.ytimg.com/vi/Cl1s_5M02rs/maxresdefault.jpg")
+                no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Lato", sans-serif;
+}
+
+#toolbar-outer{
+    margin: 0 auto;
+    text-align: center;
+    height: 40px;
+    background-color: #333333;
+}
+
+li{
+    overflow: hidden;
+    display: inline-block;
+}
+
+.option{
+    background-color: #333333;
+    text-decoration: none;
+    color: white;
+    padding: 16px;
+
+
+}
+
+.option:hover{
+    background-color: #111111;
+}
+
+/*============================================*/
+/*.table {
+    height: 104px;
+    background-color: #333333;
+    text-align: center;
+}
+#horizontal-list li {
+    list-style: none;
+    margin: 12 16px;
+	display: inline-block;
+}
+#horizontal-list li:hover{
+    background-image: url("http://images5.fanpop.com/image/photos/29600000/Sailor-Moon-3-sailor-moon-29665922-100-100.gif");
+}
+*/
+/*===========================================*/
+/*#toolbar-outer{
+    text-align: center;
+    height:44px;
+    background-color: #333333;
+}
+
+navigation-tool-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li{
+    display:inline-block;
+}
+.option{
+    /*---list-style-type: none;
+    display: inline-block;
+    margin: 12 16px;---*/
+    /*text-decoration: none;
+    color: white;
+    padding: 16px;
+}
+
+.option:hover {
+    background-color: #111111;
+}*/

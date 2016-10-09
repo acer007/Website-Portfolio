@@ -1,0 +1,27 @@
+body{
+    background: url("https://i.ytimg.com/vi/Cl1s_5M02rs/maxresdefault.jpg")
+                no-repeat center center fixed;
+    background-size: cover;
+    font-family: "Lato", sans-serif;
+}
+
+.navigation-tool-bar {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+.option {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    width: 100px;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.option:hover {
+    background-color: #111111;
+}

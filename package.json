@@ -1,0 +1,25 @@
+{
+  "name": "website_portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Testing Web Designs",
+  "main": "tutorialweb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acer007/Website-Portfolio.git"
+  },
+  "author": "Nehla Amin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acer007/Website-Portfolio/issues"
+  },
+  "homepage": "https://github.com/acer007/Website-Portfolio#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
